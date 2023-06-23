@@ -1,0 +1,2 @@
+It scripts maked for scenario "PvP". Created by zweroxotnik@gmail.com
+Read terms of service: https://www.factorio.com/terms-of-service

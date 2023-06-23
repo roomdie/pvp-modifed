@@ -1,0 +1,2 @@
+This scenario is taken from "PvP" scenario of the "Factorio" version game from 0.15.40 to 0.16.51 and modified by ZwerOxotnik <zweroxotnik@gmail.com>
+Read terms of service: https://www.factorio.com/terms-of-service
